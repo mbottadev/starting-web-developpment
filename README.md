@@ -1,7 +1,7 @@
 # starting-web-developpment
 # Biographie : Tim Berners-Lee
 
-### _Screenshot de ma réalisation:_ 
+### _Photo de la page web qui a été demandé de reproduire:_ 
 
 <img src="timbernersleecp.PNG" alt="photo"/>
  
@@ -13,7 +13,7 @@ Visual Studio Code
 
 ## Langages utilisés:
 - HTML
-- CSS (Flexbox) 
+- CSS  
 
 ## Responsive? 
 Bien évidemment!
