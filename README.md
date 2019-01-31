@@ -4,6 +4,10 @@
 ### _Photo de la page web qui a été demandé de reproduire:_ 
 
 <img src="TimRedo.png" alt="photo"/>
+
+
+## Consignes:
+Reproduire cette page web à l'identique sur base d'une photo en utilisant HTML et CSS.
  
 ## Logiciel utilisé pour coder:
 Visual Studio Code
