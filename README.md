@@ -3,7 +3,7 @@
 
 ### _Photo de la page web qui a été demandé de reproduire:_ 
 
-<img src="timbernersleecp.PNG" alt="photo"/>
+<img src="TimRedo.png" alt="photo"/>
  
 ## Logiciel utilisé pour coder:
 Visual Studio Code
