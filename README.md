@@ -1,7 +1,7 @@
 # starting-web-developpment
 # Biographie : Tim Berners-Lee
 
-## Time-line
+## Timeline
 Realised after four weeks of training.
 
 ### _Photo de la page web qui a été demandé de reproduire:_ 
